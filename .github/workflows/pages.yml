@@ -1,4 +1,4 @@
-name: Build and Deploy (Just the Docs)
+name: Build and Deploy
 
 on:
   push:
@@ -19,13 +19,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: actions/setup-ruby@v1
+      - uses: ruby/setup-ruby@v1
         with:
           ruby-version: '3.2'
-      - name: Install dependencies
-        run: |
-          gem install bundler
-          bundle install
+          bundler-cache: true
       - name: Build site
         run: bundle exec jekyll build --trace
       - name: Upload artifact
