@@ -15,6 +15,9 @@ just_the_docs:
   back_to_top_text: "Back to top"
   show_navbar: true
   nav_sort: case_insensitive
+  # Include plain CSS without SCSS compilation
+  includes_css:
+    - assets/css/custom.css
 
 # Useful external links in the top-right
 aux_links:

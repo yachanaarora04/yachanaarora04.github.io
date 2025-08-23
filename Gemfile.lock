@@ -10,6 +10,7 @@ GEM
       http_parser.rb (~> 0)
     eventmachine (1.2.7)
     ffi (1.17.2)
+<<<<<<< HEAD
     ffi (1.17.2-aarch64-linux-gnu)
     ffi (1.17.2-aarch64-linux-musl)
     ffi (1.17.2-arm-linux-gnu)
@@ -27,6 +28,10 @@ GEM
     google-protobuf (3.23.4-x86-linux)
     google-protobuf (3.23.4-x86_64-darwin)
     google-protobuf (3.23.4-x86_64-linux)
+=======
+    forwardable-extended (2.6.0)
+    google-protobuf (3.23.4)
+>>>>>>> eabc693 (chore: switch to plain CSS include to avoid local Sass/protobuf issues; configure head include)
     http_parser.rb (0.8.0)
     i18n (1.14.7)
       concurrent-ruby (~> 1.0)
@@ -87,6 +92,7 @@ GEM
     sass-embedded (1.58.3)
       google-protobuf (~> 3.21)
       rake (>= 10.0.0)
+<<<<<<< HEAD
     sass-embedded (1.58.3-aarch64-linux-android)
       google-protobuf (~> 3.21)
     sass-embedded (1.58.3-aarch64-linux-gnu)
@@ -115,12 +121,15 @@ GEM
       google-protobuf (~> 3.21)
     sass-embedded (1.58.3-x86_64-linux-musl)
       google-protobuf (~> 3.21)
+=======
+>>>>>>> eabc693 (chore: switch to plain CSS include to avoid local Sass/protobuf issues; configure head include)
     terminal-table (3.0.2)
       unicode-display_width (>= 1.1.1, < 3)
     unicode-display_width (2.6.0)
     webrick (1.9.1)
 
 PLATFORMS
+<<<<<<< HEAD
   aarch64-linux
   aarch64-linux-android
   aarch64-linux-gnu
@@ -141,6 +150,9 @@ PLATFORMS
   x86_64-linux-android
   x86_64-linux-gnu
   x86_64-linux-musl
+=======
+  ruby
+>>>>>>> eabc693 (chore: switch to plain CSS include to avoid local Sass/protobuf issues; configure head include)
 
 DEPENDENCIES
   jekyll (~> 4.3)
@@ -149,4 +161,8 @@ DEPENDENCIES
   webrick (~> 1.8)
 
 BUNDLED WITH
+<<<<<<< HEAD
    2.7.2
+=======
+   1.17.2
+>>>>>>> eabc693 (chore: switch to plain CSS include to avoid local Sass/protobuf issues; configure head include)
