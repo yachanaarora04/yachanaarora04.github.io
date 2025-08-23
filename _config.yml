@@ -1,7 +1,8 @@
 title: "Yachana Arora"
 description: "SDE @ Amazon | Former SDE Intern ’25 @ Amazon | Former SWE Intern ’24 @ Microsoft | B.Tech @ NIT Hamirpur"
-url: "https://yachanaarora04.github.io"
-baseurl: ""
+url: ""                 # set after first deploy, e.g., https://<user>.github.io/portfolio-jtd
+baseurl: ""             # keep empty for user/organization pages
+theme: just-the-docs
 remote_theme: just-the-docs/just-the-docs
 color_scheme: nil       # light by default; supports 'dark'
 markdown: kramdown
@@ -14,9 +15,6 @@ just_the_docs:
   back_to_top_text: "Back to top"
   show_navbar: true
   nav_sort: case_insensitive
-  # Include plain CSS without SCSS compilation
-  includes_css:
-    - assets/css/custom.css
 
 # Useful external links in the top-right
 aux_links:
@@ -25,24 +23,10 @@ aux_links:
   "Email":
     - "mailto:someone@example.com"
   "GitHub":
-    - "https://github.com/yachanaarora04"
+    - "https://github.com/your-handle"
 
 # Build
 plugins:
   - jekyll-remote-theme
 
 # Collections not needed; simple pages are fine
-defaults:
-  - scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: "default"
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "default"
-
-# Blog settings
-permalink: /blog/:title/
