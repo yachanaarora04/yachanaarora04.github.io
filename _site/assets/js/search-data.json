@@ -1,0 +1,121 @@
+{"0": {
+    "doc": "Awards",
+    "title": "Awards",
+    "content": ". | Gold Medalist | . ",
+    "url": "/awards/",
+    
+    "relUrl": "/awards/"
+  },"1": {
+    "doc": "Blog",
+    "title": "Blog",
+    "content": ". | Public Speaking . 26 September 2022 26 September 2022 . | . ",
+    "url": "/blog/",
+    
+    "relUrl": "/blog/"
+  },"2": {
+    "doc": "Training / Courses",
+    "title": "Training / Courses",
+    "content": ". | Computer Graphics | Data Structures and Algorithms | Discrete Mathematics | Engineering Mathematics-3 | MATLAB | Object Oriented Programming | Operating Systems | Organizational Behaviour | SPSS | Statistical Methods | Stochastic Processes | . ",
+    "url": "/courses/",
+    
+    "relUrl": "/courses/"
+  },"3": {
+    "doc": "Education",
+    "title": "Education",
+    "content": " ",
+    "url": "/education/",
+    
+    "relUrl": "/education/"
+  },"4": {
+    "doc": "Education",
+    "title": "National Institute of Technology, Hamirpur",
+    "content": "B.Tech — Mathematics &amp; Computing 2021 – 2025 . ",
+    "url": "/education/#national-institute-of-technology-hamirpur",
+    
+    "relUrl": "/education/#national-institute-of-technology-hamirpur"
+  },"5": {
+    "doc": "Education",
+    "title": "Delhi Public School — India",
+    "content": "Science &amp; Computers . ",
+    "url": "/education/#delhi-public-school--india",
+    
+    "relUrl": "/education/#delhi-public-school--india"
+  },"6": {
+    "doc": "Experience",
+    "title": "Experience",
+    "content": " ",
+    "url": "/experience/",
+    
+    "relUrl": "/experience/"
+  },"7": {
+    "doc": "Experience",
+    "title": "Software Development Engineer",
+    "content": "Amazon — Hyderabad, India 07/2025 – Present . | Building customer-facing features and platform services with emphasis on reliability, latency SLOs, and operational excellence. | Backend focus: Java, TypeScript, AWS (Lambda, API Gateway, DynamoDB, SQS, SNS), IaC, CI/CD. | . ",
+    "url": "/experience/#software-development-engineer",
+    
+    "relUrl": "/experience/#software-development-engineer"
+  },"8": {
+    "doc": "Experience",
+    "title": "SDE Intern",
+    "content": "Amazon — Hyderabad, India 01/2025 – 06/2025 . | Implemented services and internal tooling with measurable latency and availability improvements. | . ",
+    "url": "/experience/#sde-intern",
+    
+    "relUrl": "/experience/#sde-intern"
+  },"9": {
+    "doc": "Experience",
+    "title": "Software Engineer Intern",
+    "content": "Microsoft — Hyderabad, India 06/2024 – 07/2024 . | Accessibility engineering: audited and remediated UI components for Windows Narrator, Voice Access, and related ATs. | Delivered A11y test harness and developer guidance for consistent ARIA semantics. | . ",
+    "url": "/experience/#software-engineer-intern",
+    
+    "relUrl": "/experience/#software-engineer-intern"
+  },"10": {
+    "doc": "Home",
+    "title": "Yachana Arora",
+    "content": "SDE @ Amazon Former SDE Intern ’25 @ Amazon • Former SWE Intern ’24 @ Microsoft B.Tech (Mathematics &amp; Computing), NIT Hamirpur . ",
+    "url": "/#yachana-arora",
+    
+    "relUrl": "/#yachana-arora"
+  },"11": {
+    "doc": "Home",
+    "title": "Summary",
+    "content": "At Amazon, I build scalable, reliable, and customer-focused systems. Experience spans backend development with Java, TypeScript, AWS services, system design, and performance optimization. I’ve also worked with frontend stacks such as React and Next.js, cloud-native architectures, and integrations to deliver end-to-end solutions. I hold a B.Tech in Mathematics and Scientific Computing, with strong foundations in analytics, problem solving, and engineering judgment — enabling me to build robust, secure, and scalable software. ",
+    "url": "/#summary",
+    
+    "relUrl": "/#summary"
+  },"12": {
+    "doc": "Home",
+    "title": "Snapshot",
+    "content": ". | Current: SDE, Amazon (Hyderabad, India) | Past: SWE Intern, Microsoft (Accessibility &amp; A11y tooling), SDE Intern, Amazon | Interests: Distributed systems, accessibility, system design | Contact: See links in top-right (LinkedIn, Email, GitHub) | . Use the left sidebar to browse Experience, Education, Projects, Skills, Courses, and Awards. ",
+    "url": "/#snapshot",
+    
+    "relUrl": "/#snapshot"
+  },"13": {
+    "doc": "Home",
+    "title": "Home",
+    "content": " ",
+    "url": "/",
+    
+    "relUrl": "/"
+  },"14": {
+    "doc": "Projects",
+    "title": "Projects",
+    "content": " ",
+    "url": "/projects/",
+    
+    "relUrl": "/projects/"
+  },"15": {
+    "doc": "Projects",
+    "title": "Correct Posture",
+    "content": "02/2023 – Present . The widespread use of technology affects posture when using electronic devices. This project explores detection and guidance to improve posture health. | Researched posture degradation patterns and device-use ergonomics. | Built data collection scripts and baseline models; explored on-device feedback loops. | . What qualifies as success? Example: measurable reduction in forward-head posture angle across users in a 4-week study. ",
+    "url": "/projects/#correct-posture",
+    
+    "relUrl": "/projects/#correct-posture"
+  },"16": {
+    "doc": "Skills",
+    "title": "Skills",
+    "content": "Languages: Java, TypeScript, Python Frameworks: React, Node.js, Spring Boot Cloud &amp; Infra: AWS (Lambda, API Gateway, DynamoDB, S3, CloudWatch), Docker, CI/CD Topics: System Design, Distributed Systems, Accessibility (A11y), Testing, Observability . Languages (Proficiency Badges) . English — Advanced Hindi — Advanced . ",
+    "url": "/skills/",
+    
+    "relUrl": "/skills/"
+  }
+}
