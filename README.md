@@ -1,10 +1,14 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Portfolio (Just the Docs)ßß
 =======
 # Portfolio (Just the Docs)
 
 A documentation-style portfolio built with the **Just the Docs** Jekyll theme.
 >>>>>>> 1238040 (Initial commit: Just-the-Docs portfolio scaffold)
+=======
+# Portfolio (Just the Docs)ßß
+>>>>>>> a6e4f17 (chore: initial commit for GitHub Pages (Jekyll Just the Docs))
 
 ## Local preview
 
