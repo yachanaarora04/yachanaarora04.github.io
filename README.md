@@ -1,6 +1,4 @@
-# Portfolio (Just the Docs)
-
-A documentation-style portfolio built with the **Just the Docs** Jekyll theme.
+# Portfolio
 
 ## Local preview
 
@@ -26,7 +24,3 @@ Open [http://127.0.0.1:4000](http://127.0.0.1:4000)
 - Page content: edit the `.md` files.
 - Styling: tweak `assets/css/custom.css`.
 
-## References
-
-- Just the Docs: https://just-the-docs.github.io/just-the-docs/
-- Jekyll: https://jekyllrb.com/docs/
