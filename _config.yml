@@ -2,7 +2,6 @@ title: "Yachana Arora"
 description: "SDE @ Amazon | Former SDE Intern ’25 @ Amazon | Former SWE Intern ’24 @ Microsoft | B.Tech @ NIT Hamirpur"
 url: "https://yachanaarora04.github.io"
 baseurl: ""
-theme: just-the-docs
 remote_theme: just-the-docs/just-the-docs
 color_scheme: nil       # light by default; supports 'dark'
 markdown: kramdown
@@ -26,7 +25,7 @@ aux_links:
   "Email":
     - "mailto:someone@example.com"
   "GitHub":
-    - "https://github.com/your-handle"
+    - "https://github.com/yachanaarora04"
 
 # Build
 plugins:
